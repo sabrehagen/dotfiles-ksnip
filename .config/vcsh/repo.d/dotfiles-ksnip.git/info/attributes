@@ -1,0 +1,2 @@
+.config/ksnip/ksnip.conf diff=vcsh-exclude-ksnip
+.config/ksnip/ksnip.conf filter=vcsh-exclude-ksnip
